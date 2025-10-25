@@ -16,7 +16,6 @@
 - All notes are stored **locally in your browser** using Chrome's storage
 - We never send your data to external servers
 - No third-party tracking or analytics
-- AI features use services you configure (OpenAI, etc.) - we don't log these interactions
 
 ### Technical Details:
 - Storage: `chrome.storage.local` (only on your device)
