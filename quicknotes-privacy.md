@@ -19,8 +19,8 @@
 
 ### Technical Details:
 - Storage: `chrome.storage.local` (only on your device)
-- Network: No external calls except for AI services you enable
 - Permissions: Used only for note-taking functionality
+- Chrome built-in AI
 
 ## Open Source
 This extension is open source. You can review the code to verify our privacy claims.
