@@ -31,4 +31,4 @@ This extension is open source. You can review the code to verify our privacy cla
 ## Contact
 Questions? Create an issue on GitHub or contact us at [cluc.auth@gmail.com]
 
-*Last updated: {current-date}*
+*Last updated: {10/24/2025}*
